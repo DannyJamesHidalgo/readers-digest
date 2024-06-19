@@ -1,0 +1,183 @@
+[
+    {
+      "pk": 1,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "isbn_number": "9780743273565",
+      "cover_image": "https://example.com/great-gatsby-cover.jpg",
+      "user_id": 3
+    }
+  },{
+      "pk": 2,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "isbn_number": "9780142437247",
+      "cover_image": "https://example.com/moby-dick-cover.jpg",
+      "user_id": 1
+    }
+  },{
+      "pk": 3,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "1984",
+      "author": "George Orwell",
+      "isbn_number": "9780451526538",
+      "cover_image": "https://example.com/1984-cover.jpg",
+      "user_id": 6
+    }
+  },{
+      "pk": 4,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "isbn_number": "9780060935465",
+      "cover_image": "https://example.com/to-kill-a-mockingbird-cover.jpg",
+      "user_id": 2
+    }
+  },{
+      "pk": 5,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "isbn_number": "9780141040349",
+      "cover_image": "https://example.com/pride-and-prejudice-cover.jpg",
+      "user_id": 4
+    }
+  },{
+      "pk": 6,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "isbn_number": "9780316769174",
+      "cover_image": "https://example.com/catcher-in-the-rye-cover.jpg",
+      "user_id": 5
+    }
+  },{
+      "pk": 7,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "isbn_number": "9780099470465",
+      "cover_image": "https://example.com/brave-new-world-cover.jpg",
+      "user_id": 1
+    }
+  },{
+      "pk": 8,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "isbn_number": "9780140186470",
+      "cover_image": "https://example.com/grapes-of-wrath-cover.jpg",
+      "user_id": 3
+    }
+  },{
+      "pk": 9,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "isbn_number": "9780261102179",
+      "cover_image": "https://example.com/hobbit-cover.jpg",
+      "user_id": 2
+    }
+  },{
+      "pk": 10,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "isbn_number": "9780261102216",
+      "cover_image": "https://example.com/lord-of-the-rings-cover.jpg",
+      "user_id": 4
+    }
+  },{
+      "pk": 11,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "isbn_number": "9780140449138",
+      "cover_image": "https://example.com/war-and-peace-cover.jpg",
+      "user_id": 6
+    }
+  },{
+      "pk": 12,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "isbn_number": "9780307743653",
+      "cover_image": "https://example.com/les-miserables-cover.jpg",
+      "user_id": 5
+    }
+  },{
+      "pk": 13,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "isbn_number": "9780141184761",
+      "cover_image": "https://example.com/ulysses-cover.jpg",
+      "user_id": 3
+    }
+  },{
+      "pk": 14,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "isbn_number": "9780060935465",
+      "cover_image": "https://example.com/one-hundred-years-of-solitude-cover.jpg",
+      "user_id": 1
+    }
+  },{
+      "pk": 15,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "isbn_number": "9780140449138",
+      "cover_image": "https://example.com/crime-and-punishment-cover.jpg",
+      "user_id": 2
+    }
+  },{
+      "pk": 16,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "isbn_number": "9780199535848",
+      "cover_image": "https://example.com/picture-of-dorian-gray-cover.jpg",
+      "user_id": 4
+    }
+  },{
+      "pk": 17,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "The Sun Also Rises",
+      "author": "Ernest Hemingway",
+      "isbn_number": "9780060850525",
+      "cover_image": "https://example.com/sun-also-rises-cover.jpg",
+      "user_id": 5
+    }
+  },{
+      "pk": 18,
+      "model": "digestapi.book",
+      "fields": {
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "isbn_number": "9780060850525",
+      "cover_image": "https://example.com/the-old-man-and-the-sea-cover.jpg",
+      "user_id": 6
+    }
+}
+]

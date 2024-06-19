@@ -1,0 +1,37 @@
+[
+    {
+      "pk": 1,
+      "model": "digestapi.category",
+      "fields": {
+        "name": "Science Fiction"
+      }
+    },
+    {
+      "pk": 2,
+      "model": "digestapi.category",
+      "fields": {
+        "name": "Fantasy"
+      }
+    },
+    {
+      "pk": 3,
+      "model": "digestapi.category",
+      "fields": {
+        "name": "Thriller"
+      }
+    },
+    {
+      "pk": 4,
+      "model": "digestapi.category",
+      "fields": {
+        "name": "Romance"
+      }
+    },
+    {
+      "pk": 5,
+      "model": "digestapi.category",
+      "fields": {
+        "name": "History"
+      }
+    }
+  ]

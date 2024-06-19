@@ -4,7 +4,7 @@ from django.core.validators import MinValueValidator, MaxValueValidator
 
 
 class BookReviews(models.Model):
-    book = models.ForeignKey("Book", on_delete=models.CASCADE)
+    book = models.ForeignKey("Book", on_delete=models.CASCADE, related_name="reviews")
     user = models.ForeignKey(
         User, on_delete=models.CASCADE, related_name="reviews_created"
     )
